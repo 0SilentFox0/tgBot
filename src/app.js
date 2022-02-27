@@ -1,11 +1,12 @@
 import { Telegraf, Markup } from "telegraf";
 import axios from "axios";
 
+// TODO ENV
 const token = "5227368679:AAG6NMaoWxG7AOYcnpK0eMigxOYa6vwYpsU";
+const domain = "";
 
 const bot = new Telegraf(token);
 
-const domain = "";
 const ORG_ID = "organisationId__";
 const CITY_ID = "cityId__";
 
