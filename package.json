@@ -12,6 +12,7 @@
   "dependencies": {
     "axios": "^0.26.0",
     "esm": "^3.2.25",
+    "express": "^4.17.3",
     "node-telegram-bot-api": "^0.56.0",
     "telegraf": "^4.7.0"
   }
